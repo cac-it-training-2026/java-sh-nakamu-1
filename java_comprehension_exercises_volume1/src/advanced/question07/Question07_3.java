@@ -49,6 +49,5 @@ public class Question07_3 {
 			stocks[i] = stocks[i] - amounts[i];
 			System.out.println("在庫" + stocks[i] + "個");
 		}
-
 	}
 }
